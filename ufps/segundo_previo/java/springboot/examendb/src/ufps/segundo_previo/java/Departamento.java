@@ -1,6 +1,4 @@
 package springboot.examendb.src.ufps.segundo_previo.java;
-// Suggested code may be subject to a license. Learn more: ~LicenseLog:2946173062.
-// Suggested code may be subject to a license. Learn more: ~LicenseLog:1109345479.
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

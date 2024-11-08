@@ -1,4 +1,3 @@
-
 package springboot.examendb.src.ufps.segundo_previo.java;
 
 import jakarta.persistence.*;

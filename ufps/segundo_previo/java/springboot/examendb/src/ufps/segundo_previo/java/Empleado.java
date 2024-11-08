@@ -1,6 +1,6 @@
 package springboot.examendb.src.ufps.segundo_previo.java;
 
-import
+import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
